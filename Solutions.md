@@ -18,6 +18,8 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 # Answers
 
+## Answer 1
+
 1. Insertion Sort aşamaları:
 
 2,27,16,22,18,6
