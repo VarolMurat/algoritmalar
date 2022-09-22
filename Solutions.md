@@ -31,6 +31,8 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 3. 18 sayısı average case kapsamındadır.
 
 
+## Answer 2
+
 [7,3,5,8,2,9,4,15,6] insertion sort aşamaları;
 
 [2,3,5,8,7,9,4,15,6]
