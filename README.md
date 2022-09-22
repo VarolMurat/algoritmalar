@@ -1,2 +1,0 @@
-# algoritmalar
-Insertion Sort Projesi
